@@ -1,3 +1,10 @@
+> **Repositorio de terceros / material de curso**  
+> Este repositorio es un *fork* de [rage/java-programming](https://github.com/rage/java-programming), utilizado como material de aprendizaje del curso [Java Programming MOOC](https://java-programming.mooc.fi/). El código y los materiales originales pertenecen a sus respectivos autores y titulares. No se presenta como desarrollo original de tzayadet.  
+>  
+> Si buscas proyectos Java desarrollados por mí, consulta [tzayadet/Java](https://github.com/tzayadet/Java).
+
+---
+
 # Material template
 
 This repository contains both the source code of this course's webpage and the source for the content of the course. The content is located in the `data` folder and everything else is for the website.
